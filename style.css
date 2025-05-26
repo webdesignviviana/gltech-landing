@@ -45,7 +45,7 @@ nav a:hover {
 
 .hero {
   height: 100vh;
-  background: url('abstracto-gotas-de-rocio-azul-en-fondo-humedo-naturaleza-belleza-vibrante-generada-por-inteligencia-artificial.jpg') center/cover no-repeat;
+  background: url('fondo.jpg') center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
